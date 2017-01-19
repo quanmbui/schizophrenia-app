@@ -1,0 +1,28 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1461003844996.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "187CE96D",
+    "lastKnownWriteTime" : 4294967302,
+    "last_content_update" : 1461003844996,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "2x75t7et74",
+        "caption" : "panss.data",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=panss.data&cache_key=2x75t7et74",
+        "displayedObservations" : 2992,
+        "environment" : "",
+        "object" : "panss.data",
+        "totalObservations" : 2992,
+        "variables" : 14
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
